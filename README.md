@@ -54,6 +54,4 @@ An interactive Power BI dashboard designed to analyze sales, profit, and product
 
 ---
 
-## 📜 License
-MIT License
 
